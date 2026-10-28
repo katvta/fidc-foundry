@@ -1,0 +1,18 @@
+# Compiler files
+cache/
+out/
+
+# Commonly ignored directories
+.logs/
+.ignore/
+
+# Foundry deployment artifacts can contain environment-specific data
+/broadcast/
+
+# Docs
+docs/
+
+# Dotenv file
+.env
+.env.*
+!.env.example
